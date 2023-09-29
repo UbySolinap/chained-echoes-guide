@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0 3rem 0;
+  background-color: var(--color--unique--1);
+  color: var(--color--dark--1);
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.8em;
+  font-weight: 800;
+}
+
+.navlinks {
+  text-decoration: none;
+  color: var(--color--dark--1);
+}
+
+.navlinks:hover {
+  color: var(--color--light--1);
+}

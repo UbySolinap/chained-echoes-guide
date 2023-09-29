@@ -1,0 +1,37 @@
+@import "https://fonts.googleapis.com/css2?family=Onest:wght@400;800&display=swap";
+
+:root {
+  --color--unique--1: #c4b454;
+
+  --color--dark--1: #343434;
+  --color--dark--2: #1b1212;
+
+  --color--light--1: #f9f6ee;
+  --color--light--2: #ffdead;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Onest", sans-serif;
+  background-color: var(--color--dark--1);
+  color: var(--color--light--1);
+  line-height: 1.5;
+}
+
+.links {
+  color: var(--color--unique--1);
+  text-decoration: none;
+}
+
+.links:hover {
+  color: var(--color--light--2);
+}
+
+.strayLogo {
+  text-align: center;
+}
