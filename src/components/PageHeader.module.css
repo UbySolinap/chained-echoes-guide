@@ -5,7 +5,10 @@
 }
 
 .materials {
-  background: linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.8)),
+  background: -webkit-linear-gradient(
+      rgba(36, 42, 46, 0.8),
+      rgba(36, 42, 46, 0.8)
+    ),
     url("materials.jpg");
   background-size: cover;
   background-position: center;
@@ -15,7 +18,10 @@
 }
 
 .gamebasics {
-  background: linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.8)),
+  background: -webkit-linear-gradient(
+      rgba(36, 42, 46, 0.8),
+      rgba(36, 42, 46, 0.8)
+    ),
     url("gamebasics.png");
   background-size: cover;
   background-position: center;
