@@ -9,7 +9,20 @@
       rgba(36, 42, 46, 0.8),
       rgba(36, 42, 46, 0.8)
     ),
-    url("./public/materials.jpg");
+    url("materials.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 0rem 1rem;
+}
+
+.gamebasics {
+  background-image: linear-gradient(
+      rgba(36, 42, 46, 0.8),
+      rgba(36, 42, 46, 0.8)
+    ),
+    url("gamebasics.png");
   background-size: cover;
   background-position: center;
   border-radius: 5px;
