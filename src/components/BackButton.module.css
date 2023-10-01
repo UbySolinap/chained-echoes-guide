@@ -1,0 +1,6 @@
+.backBtn {
+  font-size: 2em;
+  padding: 0 1rem;
+  background-color: var(--color--unique--1);
+  border-radius: 15px;
+}

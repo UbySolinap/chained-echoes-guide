@@ -1,0 +1,234 @@
+{
+  "recruits": [
+    {
+      "info": {
+        "id": 12345,
+        "name": "Falora",
+        "location": "Hermit’s Isle",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-falora-clan-recruitment.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Pay her for hints to find Clan Members. \n While missable, Falora is the introduction to Clan Member Recruits. She is technically the first you encounter on your base of Hermit's Isle and you can find her outside if you head down towards the wooden pier in the south. \n After talking to her and recruiting her, she will set up a stall inside your base. You can now go to her to pay for a tip to find any recruitable Clan Members available at the moment. She'll give you a hint, but not their exact location."
+      }
+    },
+    {
+      "info": {
+        "id": 12346,
+        "name": "Guy",
+        "location": "New Wyrnshire",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-guy-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Once you have access to the Airship map, head over to New Wyrnshire just above Hermit's Isle. In the town centre, go into the inn and follow the path upstairs. Once upstairs you can exit and get to the rooftops. \n Go left from the balcony and up to the next screen, you can walk across a metal beam to the left. Follow this path and it will lead you to the right, passing by merchant stalls, and you will find Guy on the right."
+      }
+    },
+    {
+      "info": {
+        "id": 12347,
+        "name": "Deimsch",
+        "location": "Farnsport",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-deimsch-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Opens blacksmith on Hermit's Isle. \n Deimsch, who you might remember from the start of the game, can be recruited to your Clan. Head to Farnsport and from the Teleport Crystal head to the right.\n In the next screen, make your way to the top left of the map to find the upgrade Anvil you used at the start of the game and talk to Deimsch.\n With Demisch recruited, he will move to Hermit's Isle and let you use an Anvil to upgrade equipment and slot crystals. You can find him in the cave, but he moves to the shop building when you raise your Clan Rank to level three."
+      }
+    },
+    {
+      "info": {
+        "id": 12348,
+        "name": "Bernd",
+        "location": "Rockbottom",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-bernd-clan-recruitment.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Soul of Farnese at Clan Rank five. \nHead to Rockbottom Teleport Crystal and head to the right. On the top side of the screen, you want to enter the first house you come across.\nBernd will be arguing with his wife and a cutscene will play where he calls things off and asks to be taken away. Recruiting Bernd to your Clan will eventually net you a Soul of Farnese, which you will need to create ultimate weapons for each character.\nWhen you raise your Clan Rank to the max, Bernd will gift one to you from his location inside the Clan base. "
+      }
+    },
+    {
+      "info": {
+        "id": 12349,
+        "name": "Bao",
+        "location": "Mount Rydell",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-bao-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: 50 percent chance to gain more SP when you defeat enemies.\n Bao is super easy to find, all you have to do is travel to Mount Rydell when you have your Airship. Landing there will put you on a platform where he can be found meditating. Just travel to Mount Rydell once you have an airship and he will be sat on the floor.\n Recruiting Bao as a Clan member will give you a chance to earn more SP from killing enemies, which is incredibly useful for grinding SP levels for your skills."
+      }
+    },
+    {
+      "info": {
+        "id": 123410,
+        "name": "Pignon",
+        "location": "Flower Fields Of Perpetua",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-pignon-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "When you have your airship, return to the Flower Fields of Perpetua and head north as if you're going back to the Leviathan's Trench area. As you progress through the forested area, you'll soon get a cutscene.\n Pignon will be in the water and there's no chance of you missing him. In the cutscene, he talks about how much they love bathing. Once recruited to your Clan, you can find them in the Hermit's Isle caves, sitting in a room with water. As you rank your Clan up to level four, they will open up an Onsen for you to use."
+      }
+    },
+    {
+      "info": {
+        "id": 123411,
+        "name": "Gormit",
+        "location": "The Hooge",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-gormit-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Gormit is only available after you complete the sidequest The Food, the Chap, and the Hungry. This quest can be started and finished in the Arkant Archipelago and results in Tomke joining your party.\n Once on board the Hooge, you can explore around. Head to the northern section of the map and at the top right-hand edge, look for a moving platform.\n Go across the platform and follow the path down until you can take a route to the right, leading to a small section. Gormit is standing on the right."
+      }
+    },
+    {
+      "info": {
+        "id": 123412,
+        "name": "Tehlla",
+        "location": "Arkant Archipelago",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-tehlla-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Shows information on where to find materials and loot used in equipment upgrades\n Tehlla can be found in the Arkant Archipelago area. When you land you'll come to a rather small town. From this town, head to the left, following the beach until you come to the next screen.\n Continue to follow the beach to the left and up until you find Tehlla. Recruiting Tehlla will add information about where to find materials and loot drops needed for Deals, equipment upgrades, and more.\n This will also be useful for you if you looking for specific things in the Rewards Board, so make sure to grab Tehlla fast."
+      }
+    },
+    {
+      "info": {
+        "id": 123413,
+        "name": "Pavel",
+        "location": "World Map",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-pavel-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Fishes up a random material every hour.\n In your Airship, fly to the southwest corner of the map over the ocean. You'll come across a landing spot that looks like a plank of wood in the water. Interact with it to land, and you’ll find Pavel, a rather friendly octopus person.\n As far as we know, the dialogue choice he presents to you doesn’t matter; we picked the top option. Pavel will join the Clan as a recruit and begin fishing on the other pier you reach from inside the Hermit's Isle caves.\n Talk to him at your base and he will give you the materials he catches every hour. This stacks, so the longer you play without talking to him the more you'll get in one go."
+      }
+    },
+    {
+      "info": {
+        "id": 123414,
+        "name": "Vesta",
+        "location": "World Map",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-vesta-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Shows how many chests, hidden caves, and buried treasure options are in the area.\n Vesta is another Clan recruit to grab early since he will help you completionists. In your Airship, you can find him on an island that has arrows pointing inwards.\n To get there, board your airship from Hermit's Isle and go west. As you fly, look for a large body of water with an island in the middle.\n You’ll find Vesta here and not much else. You can find this location easily if you fly southeast from Rockbottom."
+      }
+    },
+    {
+      "info": {
+        "id": 123415,
+        "name": "Eddie",
+        "location": "World Map",
+        "act": "Act Two",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-eddie-clan-recruitment.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": ""
+      }
+    },
+    {
+      "info": {
+        "id": 123416,
+        "name": "Archy",
+        "location": "Shambala",
+        "act": "Act Three",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-archy-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "You can only recruit the following character after reaching Act Three and raising your Clan rank to two. Act Three begins after you launch an attack on Tormund Castle and unlock Shambala as a location.\n You can only reach Archy once you can fly in your Sky Armour in Shambala, which is tied to the main story quest. In your Sky Armour, head to the bottom southwestern screen of your map.\nArchy is on one of the islands that you can see on your map, to the bottom right of the largest bit of land that has the Chemist Class Emblem Leonar Statue on it."
+      }
+    },
+    {
+      "info": {
+        "id": 123417,
+        "name": "Thopas",
+        "location": "Shambala",
+        "act": "Act Three",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-thopas-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Gain one more Crystal from each Crystal Source.\n Before you recruit Thopas, you must unlock flying in your Sky Armour in Shambala, which is tied to progressing the main story quest. Once you can fly around, head to the northeastern square of the map.\n You will find Thopas standing on an island on the right side of this area, surrounded by three Crystal Sources. Don't interact with the crystal just yet, because recruiting Thopas will let you get three from each instead of the usual two you've been receiving up until now."
+      }
+    },
+    {
+      "info": {
+        "id": 123418,
+        "name": "Triony",
+        "location": "Farnsport",
+        "act": "Act Three",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-triony-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Soul of Farnese at Clan Rank five.\n You can see this character sitting at the docks fishing in Farnsport, but he won't be recruitable until you being Act Three of the game. Talking to Triony will trigger a cutscene and you will be faced with a dialogue option; we picked the middle one, but it seems likely that all of them result in them joining.\n Triony will sit next to Pavel and they will fish together, but Triony won't give you hourly items like Pavel. Instead, Triony will give you a Soul of Farnese when you reach Clan Rank five."
+      }
+    },
+    {
+      "info": {
+        "id": 123419,
+        "name": "Kayn Sivar",
+        "location": "Farnsport",
+        "act": "Act Three",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-kayn-sivar-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Buy different airship appearances from The Hooge.\n Kayn can be found a few steps north of the Teleport Crystal in Farnsport. Teleport there and go up to trigger the cutscene, in which Ba'Thraz will recognise Kayn and persuade them to join your clan.\nOnce recruited, you can go to the Hooge market area on the left side of the screen to buy new appearances for your airship if you want.\nThese are only visual changes and don't give any other special benefits. If you don't have access to the Hooge, you can get there by completing the side quest The Food, the Chap, and the Hungry in the Arkant Archipelago."
+      }
+    },
+    {
+      "info": {
+        "id": 123420,
+        "name": "Bob",
+        "location": "Tormund City",
+        "act": "Act Three",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-bob-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "From the main area, you want to go to the westernmost screen of Tormund. Just follow the walls down and around until you get to an opening. Bob can be found on a bench there among the trees.\n Saying 'sure' to his question, which is the first dialogue option, will get him to join. We're not sure, but it might be the case that if you choose any other dialogue option and Bob won't join, talking to him again will let you pick the right one."
+      }
+    },
+    {
+      "info": {
+        "id": 123421,
+        "name": "Linus",
+        "location": "Tormund Underground",
+        "act": "Act Three",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-linus.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Plays a random sound effect when talked to\n Head to Tormund and go into the Underground section on the east side of the city. Here, you’re looking for a dog that runs around the underground.\nFrom the main entrance to the underground, we went down, to the right, and across the bridge. Linus was running around the corner to the bottom right. Once you find Linus, interact with them to get a line of dialogue, and then Linus will join you."
+      }
+    },
+    {
+      "info": {
+        "id": 123422,
+        "name": "Murchand",
+        "location": "Flandern",
+        "act": "Act Three",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-merchand.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Becomes a merchant on Hermit's Isle.\n Once you can return to Flandern in the Kortara Mountain Range, head west from the Teleport Stone. You’re looking for a character who looks like a hammerhead shark sitting next to some grass.\n They’re somewhat depressed because people aren't interested in buying from them. They will ask you a question, which we responded to with the bottom dialogue option that suggests they need a change. After they agree to join, they will become a merchant on Hermit's Isle, opening up an entire shop."
+      }
+    },
+    {
+      "info": {
+        "id": 123423,
+        "name": "Gimaj",
+        "location": "Ograne Grottos",
+        "act": "Act Four",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-gimaj-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: 50 percent chance to get five additional SP after battles.\n Including Gimaj, there are five NPCs left to recruit. These five can only be recruited after you have completed the main story quest called Chained Echoes.\n Once you've done this, you can find Gimaj in the Ograne Grottos. From the Teleport Crystal in the centre, head to the western area of Ograne Grottos.\nThis area is full of enemies called Tadeyes, which require the Incocybin Berries to get past them. You'll come across the first one when you enter the western screen, use a berry on it to insta-kill it, and then continue going left.\nWhen the path splits, take the path up to another Tadeye and a stone ladder. Go down the ladder and across to the waterfall, where you will find Gimaj."
+      }
+    },
+    {
+      "info": {
+        "id": 123424,
+        "name": "Zellor",
+        "location": "Flower Fields of Perpetua",
+        "act": "Act Four",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-zellor-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Discount at all shops.\n You can find Zellor in the bottom right desert area in the Flower Fields of Perpetua. Just like with Gimaj, Zellor won't be recruitable until you have cleared the main story quest Chained Echoes and raised your clan rank to four.\n There is a camp located in the desert where you'll find Zellor. If you're having trouble finding the camp, use the church in the middle of the area to orientate yourself. From the church, the camp is to the right and up a tiny bit."
+      }
+    },
+    {
+      "info": {
+        "id": 123425,
+        "name": "Bernd’s Wife",
+        "location": "Rockbottom",
+        "act": "Act Four",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-berndt-s-wife-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "Reward: Get specific crystals from crystal sources.\n Remember Berdn from earlier? He was arguing with his wife in their home in Rockbottom. Well, once you've completed the main story quest Chained Echoes, you'll be able to go back there to recruit Bernd's Wife to your Clan.\n Enlisting Bernd's Wife in your Clan lets you receive specific crystals from the crystal sources you come across. This ability is perfect if you want to grab certain ones to complete your builds."
+      }
+    },
+    {
+      "info": {
+        "id": 123426,
+        "name": "Jack",
+        "location": "Fiorwoods",
+        "act": "Act Four",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-jack-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "At this point in your quest, you will have found your way to the Fiorwoods Research Camp. This is the same location where you can find the Vampire Class Emblem statue.\n Teleport to the crystal and head to the middle of the camp. You'll find Jack there and you can talk to him. Recruiting Jack doesn't offer any specific rewards, but each NPC you recruit will give you a point towards levelling up your Clan.\n You will want to grab every single character to get your Clan to rank five, which will give you net some nice rewards you won't want to miss."
+      }
+    },
+    {
+      "info": {
+        "id": 123427,
+        "name": "Fridolyn",
+        "location": "Vacation Island, World Map",
+        "act": "Act Four",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/01/chained-echoes-fridolin-clan-recruit.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "details": "To get Fridolyn to appear here you need to do the sidequest called A Little Vacation, which will take you to a manor in the woods with living vegetables and talking pigs.\n Once you've done the quest, Fridolyn and his pigs will move to Vacation Island, which can be found on your Airship map in the bottom right.\n Landing on Vacation Isle, you'll only be able to explore the beach, and it's a small location. Head up, and you'll see Fridolyn sunbathing with his pigs. Talk to him and he will join your clan."
+      }
+    }
+  ]
+}

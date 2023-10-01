@@ -1,0 +1,15 @@
+.optional section {
+  margin: 1rem 1rem 4rem 1rem;
+}
+
+.optional h2 {
+  margin: 1rem 0;
+}
+
+.optional p {
+  line-height: 1.7;
+}
+
+.listUl {
+  list-style: none;
+}

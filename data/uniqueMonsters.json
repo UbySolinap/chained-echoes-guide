@@ -1,0 +1,148 @@
+{
+  "monsters": [
+    {
+      "info": {
+        "id": 54321,
+        "name": "Tak the Yak",
+        "location": "Rohlan Fields",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJl2xS3v2CnQ9MrDf0AW-PKNqUiX6m-xSyG5JJQoFLIm9EKN5s7olRuSglHHKD120N9bGc4EeTiXvZIeBb26xr3BBlkDpuoTnaQvzxQS9s6MPqlxvMtW2ovPiKvhx1FqplBbqEMHOFUvzFxgUmYoPYtZnsPAiAy7n8IYm1fnMMlp3-2cpVRKZnzaO/s1920/20221210191515_1.jpg",
+        "details": "in a clearing north of Farnsport. That's a big yak. If you decide to battle Tak the Yak during your first encounter with the beast then it will, indeed, prove quite the opponent - but not unbeatable. Tak has straightforward but painful moves"
+      }
+    },
+    {
+      "info": {
+        "id": 54322,
+        "name": "Mimic",
+        "location": "Rohlan Fields",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr52h0QJH0oV1WCF3Hy3mWbOKFgrEPiy98noGYa5wgT3f4ZMEY2vsdP99odS8TbrNt-_56Ok-VHWmMxih9vG5hTKpdlrqwJO8S-gyw1nBwZbJmpUbQZE3Z28l3POspaRMcLG4OpTiAaSjXycmceJd6EmC0WaG3hP5EK1p5jr61ZzDIsvyH2EIMAllJ/s1920/20221209122156_1.jpg",
+        "details": "Uh... yeah. This counts. North of the entrance to Fanrsport on the Rohlan Fields you'll find a man named Don Q freaking out about windmills. Approach the windmill to the west of him and you'll discover that it's a Mimic. A few hits will take it out, and Don Q will give you a Rapier. You can also claim the kill on the Reward Board: 100a, 50 SP, and five Iron Ores. Barely seems fair, but... whatever."
+      }
+    },
+    {
+      "info": {
+        "id": 54323,
+        "name": "Leaping the Frog",
+        "location": "Rohlan Fields",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3_9VpnH2F1zhIOpczZintNKiOfCjRpX3Hltn8VXrv5Xl87lHuvDf3_oryr1vK-IvNXoyxETPLOUJDOHm1AJ5Lry3rohdevNrVGp6hZckda90mOadmOJB034gCblpi278hCKKJLXMErICLALMyQfOuddv3gqDm3BeSt1OcuBVDS_Kni0Z3FB5ypkre/s1920/20221209152110_1.jpg",
+        "details": "Leaping the Frog seems to disappear from its nest occasionally. I suspect this is a bug. If it's not in the sand pit, either leave the screen and come back or save and reload your game. Leaping should spawn."
+      }
+    },
+    {
+      "info": {
+        "id": 54324,
+        "name": "Ekskalibur",
+        "location": "Fiorwoods",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXphGTcXGHbno6i7eN1U4yFEsmd4X3rl1HNVI3xIjo2huInLdpZyqH4RbVBFUbWcyaNC9e2Az8vLhhucNRO2ktD__LlRYa9sfW2-S53-gUgvvNcOSw6rfW-0sFz50QwV6PU3up0zrzR2tvxoD0ptffJrXKIjdtPogjUaQ3xGyAblgwFN9XRUzsUg0S/s1920/20221223092156_1.jpg",
+        "details": "A red-eyed terror, Ekskalibur is located in the central section of the Fiorwoods, though you won't normally run into the turtle. To spawn Ekskalibur you need to find a copse of trees in roughly the middle of the area (though a smidge closer to the south). Run around the trees three times and Ekskalibur will appear to the northeast."
+      }
+    },
+    {
+      "info": {
+        "id": 54325,
+        "name": "Arthros",
+        "location": "Fiorwoods",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ4tM9Su5KK1x1UczqIR9eYjZGMthp8Gts6zHQnIOxsWrkQSzliw9UUH8iZyESeB88zueSC31lN5X3HaCg6v-k5a-NTbjWAq83rRN7ku1GZMSgwD0HgH-UEUgHzNv3cFzMFBOpA6xOd0hOnxBAHexfJ-2lwX0u86cL-yL6dKqAhdkoKNTsWKisFX-w/s1920/20221223093432_1.jpg",
+        "details": "Another red-eyed creature, Arthros is linked to its buddy Ekskalibur, listed above. It appears in the western section of the Fiorwoods, but will only show up once you've defeated Ekskalibur. Do that, then check the southwest of the boardwalks in the west of the Fiorwoods. Arthros will leap out to fight once you enter the correct area. You must fight Arthros before leaving the woods, or Ekskalibur will return to life and you'll need to fight it again to make Arthros appear."
+      }
+    },
+    {
+      "info": {
+        "id": 54326,
+        "name": "Dwelly of the Valley",
+        "location": "Korkata Mountain",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34RUwHAN1UnH2-uDgBJpFJoDf2POnDA3Y-vIX6CvkUCLJg-CjeP9XLMVTjyfCk6gTFab4-A4iGfOpg_7MpaeViXLL9XAQsexp6kn85DOUV-1r0GtKoK38U6OzFq4Jt_cw5Ibaliviz7yhHJwecgm8B1Rk1wuCSefWInpiup9paDLj2QGR1xYuM0_H/s1920/20221214183812_1.jpg",
+        "details": "One of Kortara's two Unique Monsters, Dwelly of the Valley won't be available for you until you can pilot Sky Armors. Once you can, take a trip to the southwestern area in the area and fly around. There's a small, lonely island in the middle of the map. Try to land on it and Dwelly will attack."
+      }
+    },
+    {
+      "info": {
+        "id": 54327,
+        "name": "Gol D. Waterfly",
+        "location": "Korkata Mountain",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisWUWWmNogOzB9v6yKKe6t7AKpSa7VAecxmxLLNfTC8ZvuLJ0DHBX7xzurH8TCwGd4wdco7gy1LueDlaqYledyBc1RKiNTF8QpFHX4SfEmsozGX0AujzUVrJeuObUPGJrKJmYsWN1JD89did1QNVBYB3T_dw5rKWdgN3Rtg51PtSG_k-B_b8GFsntI/s1920/20221214204541_1.jpg",
+        "details": "The other of Kortara's Unique Monsters, Gol D. Waterfly needs to be baited out of hiding. To spawn the Waterfly you need to kill a large number of its children, likely in the 20+ range. You'll find normal Waterflies in large numbers in the eastern forests, and can wallop them quickly in your Sky Armor. Leave the area to refresh their numbers and kill them all again if Gol D. Waterfly doesn't spawn. When you do reach the magical number you'll find the boss in the northeast of the map, on a solitary platform in the northwest."
+      }
+    },
+    {
+      "info": {
+        "id": 54328,
+        "name": "Da Capo",
+        "location": "Flower Fields of Perpetua",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivuuhHD-4ECxq8orPFjDcgmzIw2FnMxnE317Vulhfae02ZR_YwZwBqpCvTwZir-BfUdxsgu5xzMhjAk8mjbJ0KjpsT0mnLbiiIjUASwOVuRfgI1OlMycd2B8maTShsWRoGmD_sT0NrnrIxCITLzBEl0NkS3RqQg4g_0aZ_t-fGvWQknOHEkubM5b6m/s1920/20221216220442_1.jpg",
+        "details": "One of the bizarre residents of the Flower Fields of Perpetua, Da Capo lives in the southwest of the region. Jump to the Western Fast Travel Crystal, then hop in your Sky Armor and fly directly south. You'll find a cave to the Ograne Grottos with a lever. This is part of a side quest. Leave the cave and Da Capo will appear and challenge you. (And if it doesn't, try entering and leaving a few times.)"
+      }
+    },
+    {
+      "info": {
+        "id": 54329,
+        "name": "Humphry the Hungry",
+        "location": "Flower Fields of Perpetua",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-WtvSgJx-JUR4pHugm9rmc2b1hB_16wbKEtGkA4isxLHpAHknOJMO1RHZzJ7bClrYqBamF48fVr5nlfUJHCYGfyWTz-Qj__mzxmHSsULK6OeyBEg9jP1NTnW2k_zXL9r--7v7Au4s72FE2NL60uyAuv2zYrr-DwaYcSmYEo-X95Koa6n0Zsyn4mbS/s1920/20221222233908_1.jpg",
+        "details": "A titanic sand worm, Humphry the Hungry prowls the desolate dunes of the Flower Fields of Perpetua. Enter the southeastern area in Sky Armor and look in the northwest of the desert. You'll see sand burbling out of the ground. Touch it and it will vanish. Head far east, to a camp of researchers, and you'll see the sand burbling again to the right of the camp. Another touch will send the sand burble to an area north of the church in the middle of the desert. Touch it again to reveal Humphry."
+      }
+    },
+    {
+      "info": {
+        "id": 543210,
+        "name": "Otter Nobunaga",
+        "location": "Arkant Archipelago",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWxnMz--iEa3xxUQ3k9W36EBdYoTeXTRiTRMYdA2sZinmj9rq2lLD7kK4aAz6ov3mcHl-YitW5sk23GN4LEpVpeChj9tdpmbBwUuihdokecTv6z-kAp3rpiidUF9YjZ72_o_FruZ9Tl_A8C46mrrdhCcp-Buz8L2QcaHiklI88c0dHardxx23ueHR2/s1920/20221215164146_1.jpg",
+        "details": "An honorable warrior with a pervy streak, Otter Nobunaga appears on the beach in the northwestern section of the Arkant Archipelago, west of the area's village. In order to make Otter Nobunaga appear you need to remove everyone's equipment - except for their accessories, those are fine - and enter / reenter the area. He should be sitting on the sand nearby. You can put your equipment back on, even jump in your Sky Armor, and he'll stick around so long as you don't leave the area."
+      }
+    },
+    {
+      "info": {
+        "id": 543211,
+        "name": "Hairy Otter",
+        "location": "Arkant Archipelago",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJGXZgBIqowjOUFrZ_XMqaBbeHjZpMeewek6rVt4vRNKvoIX1olr6Mpl9Hb7AYtOsfnu3BNzRQopiNX1yX4ijVjSz1WJdMvq7mZD_kdQ-ifVRfx-IQL1R7E01TScPD3skDKqKJ_9KicxL9LzyJ5hBGgOnXyiVoaFhc-hG7x8FQ501EvXVipQnudTs/s1920/20230103162257_1.jpg",
+        "details": "A furry magic user, Hairy Otter appears on the beach just north of the Taryn base in the southeast of the Arkant Archipelago. To get him to appear you need to fill the front ranks of your party with only magic users - in other words, Lenne, Ba'Thraz, Amalia, or Magnolia. Do this and reenter the area and he should appear by the dock."
+      }
+    },
+    {
+      "info": {
+        "id": 543212,
+        "name": "Golden Borb Bob",
+        "location": "Shambala",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwcSTRP-GkL2NCAerB10w1aZ3FYZIBjxmipOTQYHvr4X3N3D46WZgV8iy8YO85i0pQTckVpL0Lk2XXBq1QsK2zwz6NK6Ur_W-JWWCCjQAkcdo4OIrI1ahFN5n26qgr6FixWF0PPvEdx-5HgROEi2KhhhFhVOWqeMIX4L5G4BwOtzPFcIIpWG_ARqcK/s1920/20221222200857_1.jpg",
+        "details": "An egg suddenly taken wing, Golden Borb Bob is located in the south of Shambala. You'll run into the spawn point for Bob's on a sandy stretch in the northeast of the area, shortly before you head to Shambala's southeastern region. Bob initially appears as an egg rocking back and forth, but will hatch when the battle begins. You must have less than 100,000a for Golden Borb Bob to spawn."
+      }
+    },
+    {
+      "info": {
+        "id": 543213,
+        "name": "Aurora the Dragon",
+        "location": "Shambala",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWFE7lr3OXKnzcNeAbMya1Wj97WQFQl4qtn7h5Ftuslecj9-CQFLwek6CY6A_6RNi8O476gEFcDhmDP2UpKqyYoCooSrR9P2L3lIRK5ileQBlBVtTWsLHjLm1HKgKlcgv1L1s3pUejxDuuoTHndV6c8EZ82_DC6kcqGqLHPsZXW6vbpyaa7_sgRoHg/s1920/20221219093744_1.jpg",
+        "details": "A reclusive, shy creature, Aurora the Dragon is located on the northern island in the northeast area of Shambala. To make it appear you'll need to enter and re-enter the area until it spawns. No trick besides that, just use the edge of the map to the west over and over."
+      }
+    },
+    {
+      "info": {
+        "id": 543214,
+        "name": "Senior Tadeye",
+        "location": "Organe Grottoes",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_VHQIKg8rs5T4gHuj7cqA9-Ob2fhkvnkMteugwEtkZWcAd4GmeJOCemOvQ1WbETYVSEGWv0zxYu1qV66N3AZEqpEGfYycZAv-GXXxb4qDCM_YBDafPadiAzfE6GvFYl8u8nNoQJ9kI0wQv0sc01YfMybPi4WAwXBUKKuGQlxFfnH51jUad1UbUWkN/s1920/20230103114419_1.jpg",
+        "details": "The big boss of the Tadeyes, the Senior Tadeye is located in front of the Mage Warrior Heroes of Leonar statue, deep within the Ograne Grottos. To reach it you'll need to complete a chunk of the side quest The Gates to Nhysa. Head west of the central area of the grottos and you'll find an area full of Tadeyes. The Senior Tadeye will drive off the rest of the Tadeyes, so you'll know it's around when the other disappear. Enter and reenter the map until this happens. You'll find the Senior Tadeye in the southwest of the area. Similar to other Tadeyes you'll need to use Incocybin Berries, purchased from the Goblin Village, to make the Senior Tadeye beatable."
+      }
+    },
+    {
+      "info": {
+        "id": 543215,
+        "name": "Bog the Real Gob",
+        "location": "Organe Grottoes",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx7eOnLmM3LL22R4KL4wRCpEU4kSzfDhd4TVsU74PwsK-Fo66f7mU2dDR09LkxDKhXDwN0Vz8O83EOAttRIdu5eMUT-rlNTRztY8XNFodoslJLQMMaOYumq9Cag5CdAYbf87DlYbKTggM-lKERTmc9Ncr1SLLXloqS6rjLQ1Cnqx3LXZbrAkpNDVoR/s1920/20230102095710_1.jpg",
+        "details": "A goblin that hates its own kind - though, to be fair, he may be the only real goblin - Bog the Real Gob is a difficult enemy to find. To make him spawn in the Ograne Grottos you need to complete the side quest A Goblin's Dilemma, which will clear out the nearby Goblin Village. You also need to gain access to Ograne Grottos via the lower levels of Raminas Tower, which is a process in and of itself."
+      }
+    },
+    {
+      "info": {
+        "id": 543216,
+        "name": "God King Gaemdriel",
+        "location": "Special Boss",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPoSkgXm8JLrICqZdo0PNqgnHTUzEMWNUl0AO2XNBe3foLVTU-j09gOU8P3xBicms4ZDonYD21X9RevDx7oyEO5T2Sd81NCNvWaq4ZkOD81clKhmT9PuesxXUfIeBN2WWQ97Nja5EcL6pMW1P487frnmrz9nA5XzcpXs4rx4TAYWhXDGavukQqJK5l/s1920/20230103104353_1.jpg",
+        "details": "The final Unique Monster that you're likely to face in Chained Echoes is God King Gaemdriel. The process for battling this guy requires so much effort that it deserves its own guide. Gaemdriel is the most difficult boss in the game, and will likely stomp you unless your team is really prepared to fight. Note that Gaemdriel does not count towards the Unique Monsters count as far as the Reward Board goes, but he's still listed on there as though he is one, so..."
+      }
+    }
+  ]
+}

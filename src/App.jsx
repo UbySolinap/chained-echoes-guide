@@ -5,7 +5,9 @@ import Basics from "./pages/Basics.jsx";
 import Materials from "./pages/Materials.jsx";
 import OptionalCharacters from "./pages/OptionalCharacters.jsx";
 import ClanRecruits from "./pages/ClanRecruits.jsx";
-import UniqueMonsters from "./pages/UniqueMonsters.jsx";
+import UniqueMonstersPage from "./pages/UniqueMonstersPage.jsx";
+import Recruit from "./components/Recruit.jsx";
+import UniqueMonster from "./components/UniqueMonster.jsx";
 
 function App() {
   return (
@@ -15,8 +17,12 @@ function App() {
         <Route path="/gamebasics" element={<Basics />} />
         <Route path="/materials" element={<Materials />} />
         <Route path="/optionalcharacters" element={<OptionalCharacters />} />
-        <Route path="/clanrecruits" element={<ClanRecruits />} />
-        <Route path="/uniquemonsters" element={<UniqueMonsters />} />
+        <Route path="/clanrecruits" element={<ClanRecruits />}>
+          <Route path="/clanrecruits/:id" element={<Recruit />} />
+        </Route>
+        <Route path="/uniquemonsters" element={<UniqueMonstersPage />}>
+          <Route path="/uniquemonsters/:id" element={<UniqueMonster />} />
+        </Route>
       </Routes>
     </BrowserRouter>
   );

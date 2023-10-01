@@ -2,15 +2,6 @@
   margin: 0.7rem 1rem 4rem 1rem;
 }
 
-.refLink {
-  text-decoration: none;
-  color: var(--color--unique--1);
-}
-
-.refLink:hover {
-  color: var(--color--light--2);
-}
-
 .listUl {
   margin-top: 1.5rem;
 }

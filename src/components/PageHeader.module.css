@@ -5,10 +5,7 @@
 }
 
 .materials {
-  background: -webkit-linear-gradient(
-      rgba(36, 42, 46, 0.8),
-      rgba(36, 42, 46, 0.8)
-    ),
+  background: linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.8)),
     url("materials.jpg");
   background-size: cover;
   background-position: center;
@@ -18,11 +15,38 @@
 }
 
 .gamebasics {
-  background: -webkit-linear-gradient(
-      rgba(36, 42, 46, 0.8),
-      rgba(36, 42, 46, 0.8)
-    ),
+  background: linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.8)),
     url("gamebasics.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 0rem 1rem;
+}
+
+.optionalcharacters {
+  background: linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.8)),
+    url("optionalcharacters.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 0rem 1rem;
+}
+
+.clanrecruits {
+  background: linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.8)),
+    url("clanrecruits.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 0rem 1rem;
+}
+
+.uniquemonsters {
+  background: linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.8)),
+    url("uniquemonsters.jpg");
   background-size: cover;
   background-position: center;
   border-radius: 5px;

@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {
+      "info": {
+        "name": "Tomke",
+        "details": "Tomke is a hungry old man who can be encountered in Act II during the sidequest “The Food, the Chap, and the Hungry” in Arkant Archipelago. Tomke starts with all Passive Skills and Stat Boosters available to unlock from the start. Instead, most of his Action Skill lineup is unavailable by default. Instead, they must be revealed by eating enemies that are below 25% HP using the skill “Uncanny Encounter” — higher levels of this skill allow you to eat enemies at higher HP percentages. This only applies to enemies that have the “Canned” option ticked when targeted during battle. Tomke can theoretically be built to deal heavy physical or magic damage. Early on, he’s best used as a backline party member, only bringing him out to eat enemies and expand his moveset. Of course, you’ll still need to earn Grimoire Shards from bosses and the Reward Board to fully unlock each skill."
+      }
+    },
+    {
+      "info": {
+        "name": "Mikah",
+        "details": "Mikah is Tomke’s granddaughter, who he ended up forgetting due to his poor memory. She learned martial arts as a hobby, which can be used to devastating effect in battle. To unlocked her, you must reach Clan Rank 3, and complete the sidequest “The Food, the Chap, and the Hungry”. From there, head to the bar in the outside part of Hermit’s Isle to start the sidequest “For the Love of Food”. Most of Mikah’s gameplan in battle is casting useful buffs, before executing certain skills in sequence. For single target, this comes in the form of Tiger Punch, Tiger Rush. For AOE, it’s Falling Dragon, Rising Dragon. Doing them in the correct order grants a large damage bonus to the second skill, along with the status effect “Full Bloom”. Full Bloom acts similarly to Sienna’s Petal Storm, since it’s used to activate Mikah most damaging skill “Final Blossom”."
+      }
+    },
+    {
+      "info": {
+        "name": "Magnolia",
+        "details": "Magnolia helps out Glenn and the party a number of times, taking a liking to the former after their first meeting. To unlock her, you must complete the sidequest “Into the Maelstrom” (available during Act II), and then “Falfalaran Sings the Fairy” in Tormund during Act IV. The majority of Magnolia’s skills involve random chance, with a roll between 1-10 determining their effect. For many, rolling a 1 means the skill fails, while higher numbers can increase the enemies hit and damage done. This randomness can be somewhat improved via the skills Wild Card and Falfalaran, though both are locked behind the last tier in the skill menu."
+      }
+    },
+    {
+      "info": {
+        "name": "Raphael",
+        "details": "Raphael can be added to your party during Act IV by completing the sidequest “A Will To Live” in Iden (Fiorwoods). He’s tied more to the main story than the other main characters, so it’s worth doing his quest for some extra closure. Making use of greatswords. Raphael is able to deal physical light damage, something unique to him alone. He can also summon spirits, using them to attack or restore TP. He can also act as a standard tank, similarly to Egyl."
+      }
+    }
+  ]
+}

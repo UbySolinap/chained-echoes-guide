@@ -11,11 +11,11 @@ function Materials() {
       <PageHeader img={"materials"}>Materials</PageHeader>
       <section>
         <p>
-          Where do i get this?:{" "}
+          Where do i get this?:
           <span>
             <a
               href="https://www.arrpeegeez.com/2023/01/chained-echoes-walkthrough-materials.html"
-              className={styles.refLink}
+              className="links"
             >
               Site reference link
             </a>
